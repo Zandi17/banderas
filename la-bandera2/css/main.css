@@ -1,13 +1,9 @@
 .bloque {
 	width: 200px;
 	height: 90px;
-	margin: 10px 20px;
-	padding: 0px px;
+	margin: 12px 20px;
 	background: #FFFF00;
 }
 .rojo {
-	height: 90px;
-	width: 200px;
-	margin: 10px 20px;
 	background: #FF0000;
 }
